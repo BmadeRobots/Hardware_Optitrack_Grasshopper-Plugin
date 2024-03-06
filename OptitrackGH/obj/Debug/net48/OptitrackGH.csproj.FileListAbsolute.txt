@@ -1,0 +1,9 @@
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\bin\Debug\net48\OptitrackGH.gha
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\bin\Debug\net48\OptitrackGH.pdb
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\obj\Debug\net48\OptitrackGH.csproj.AssemblyReference.cache
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\obj\Debug\net48\OptitrackGH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\obj\Debug\net48\OptitrackGH.AssemblyInfoInputs.cache
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\obj\Debug\net48\OptitrackGH.AssemblyInfo.cs
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\obj\Debug\net48\OptitrackGH.csproj.CoreCompileInputs.cache
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\obj\Debug\net48\OptitrackGH.gha
+C:\Users\bmade\source\repos\OptitrackGH\OptitrackGH\obj\Debug\net48\OptitrackGH.pdb
